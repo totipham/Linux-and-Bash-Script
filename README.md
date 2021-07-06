@@ -4,9 +4,9 @@ Week 1, Summer 2021.
 
 ## Brief Table
 
-- [Learning Material](#learning-material)
+- [Learning Materials](#learning-material)
 
-- [Write Up](#write-up)
+- [Write Ups](#write-up)
 
 - [Bonus Tasks](#tasks)
 
@@ -59,6 +59,8 @@ Tất cả các các điều trên được lưu vào file `.log` tự định s
 
 ### III. File Finder
 
+Bài giải: [link](#write-up)
+
 Đứa em tôi nó vừa nhắn giúp tìm lại file mật khẩu cho mà thằng kia nó mà nó làm khốn nạn quá ai cao tay vào giúp tôi với :((
 
 ![image](https://user-images.githubusercontent.com/80664686/123368916-e482d900-d5a6-11eb-9d04-dccebd380d09.png)
@@ -67,7 +69,7 @@ file: [file_finder.zip](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-B
 
 ### IV. Crack the 7z
 
-Bài giải: [not yet]()
+Bài giải: [link](#write-up)
 
 Tài liệu của tôi được nén lại bằng 7z và đặt mật khẩu. Nhưng lâu ko động vào tôi đã quên mất mật khẩu của nó :< Tôi chỉ nhớ nó có 5 ký tự, 3 số ở đầu và 2 chữ cái ở sau. Liệu có thể tìm lại được mật khẩu không vậy? :((
 
@@ -75,7 +77,7 @@ file: [crackit.7z](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-S
 
 ### V. There is a base
 
-Bài giải: [not yet]()
+Bài giải: [link](#write-up)
 
 Find the secret message in this file. Do it using only one line of commands.
 
@@ -112,7 +114,7 @@ unreadable
 
 ### IX. Unreadble Strings
 
-Bài giải: [not yet]()
+Bài giải: [link](#write-up)
 
 This file seems unreadable, can you find the message?
 
