@@ -120,4 +120,4 @@ This file seems unreadable, can you find the message?
 
 file: [unreadable_strings](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/raw/main/files/challenges/unreadable_strings)
 
-[Start of page](#linux-and-bash-script)
+[Start of page](#basic-linux-and-bash-script)
