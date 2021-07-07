@@ -6,7 +6,7 @@ Week 1, Summer 2021.
 
 - [Learning Materials](#learning-material)
 
-- [Write Ups](#write-up)
+- [Write Ups](#write-ups)
 
 - [Bonus Tasks](#tasks)
 
@@ -14,17 +14,23 @@ Week 1, Summer 2021.
 
 Slide: [Training-EHC-GEN-4-week-1.pptx](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/raw/main/files/material/Training-EHC-GEN-4-week-1.pptx)
 
+Linux and Bash Script in the nutshell: [link](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/blob/main/files/material/Linux_Bash_Ref.md)
+
 Explaining commands: [Explain Shell](https://explainshell.com/)
 
-## Write up
+## Write ups
 
+- Task 1: [link](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/blob/main/files/source/info.sh)
 - Task 3, 4, 5, 9: [link](https://github.com/n3ddih/EHC_Training_2021/blob/main/week1/README.md)
+- Task 6: [link](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/edit/main/files/material/Apache_Installing.md)
+- Task 6: [link](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/blob/main/files/material/Virtual_Host_Conf.md)
+- Task 8: [binary search](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/blob/main/files/source/binary-search.py), [linear search](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/blob/main/files/source/linear-search.py)
 
 ## Tasks
 
 ### I. System info Program
 
-[Bài giải](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/blob/main/files/source/info.sh).
+Bài giải: [info.sh](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/blob/main/files/source/info.sh).
 
 Viết 1 shell script tên **info.sh** hiển thị các thông tin về hệ thống, bao gồm:
 
@@ -45,19 +51,21 @@ Viết 1 shell script tên **info.sh** hiển thị các thông tin về hệ th
   
 ![image](https://user-images.githubusercontent.com/80664686/124589953-c5c4f200-de84-11eb-89e2-f086d3b45a9e.png)
 
-### II. Xử lý file
+### II. Cron job
 
-Viết shell script đặt lịch chạy định kỳ với thời gian chỉ định (viết script ở nhà trước, demo đặt lịch vào thứ 5) để thực hiện kiểm tra sự thay đổi của một folder: (tự tạo 1 folder bất kì, add vào folder đó một số file bất kì dùng để test code chạy có đúng không)
+Bài giải: [not yet]()
 
-Kiểm tra xem có file nào trong folder được tạo mới (so với lần chạy trước theo lịch đã đặt) hay không? Nếu có thì in ra tên các file đó ([bài giải](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/blob/main/files/source/new_file.sh)).
+Tạo cron job chạy định kỳ với thời gian chỉ định nhằm kiểm tra sự thay đổi của một folder.
 
-Kiểm tra xem có file nào trong folder bị thay đổi (so với lần chạy trước theo lịch đã đặt) hay không? Nếu có thì in ra tên các file đó ([bài giải](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/blob/main/files/source/modified_file.sh)).
+- Kiểm tra xem có file nào trong folder được tạo mới (so với lần chạy trước theo lịch đã đặt) hay không? Nếu có thì in ra tên các file đó.
+- Kiểm tra xem có file nào trong folder bị thay đổi (so với lần chạy trước theo lịch đã đặt) hay không? Nếu có thì in ra tên các file đó.
+- Kiểm tra xem có file nào trong folder bị xóa (so với lần chạy trước theo lịch đã đặt) hay không? Nếu có thì in ra tên các file đó.
 
-Kiểm tra xem có file nào trong folder bị xóa (so với lần chạy trước theo lịch đã đặt) hay không? Nếu có thì in ra tên các file đó ([bài giải](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/blob/main/files/source/deleted_file.sh)).
+Tất cả các các điều trên được lưu vào file `.log` tự định sẵn
 
 ### III. File Finder
 
-Bài giải: [link](#write-up)
+Bài giải: [link](https://github.com/n3ddih/EHC_Training_2021/blob/main/week1/README.md)
 
 Đứa em tôi nó vừa nhắn giúp tìm lại file mật khẩu cho mà thằng kia nó mà nó làm khốn nạn quá ai cao tay vào giúp tôi với :((
 
@@ -67,7 +75,7 @@ file: [file_finder.zip](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-B
 
 ### IV. Crack the 7z
 
-Bài giải: [link](#write-up)
+Bài giải: [link](https://github.com/n3ddih/EHC_Training_2021/blob/main/week1/README.md)
 
 Tài liệu của tôi được nén lại bằng 7z và đặt mật khẩu. Nhưng lâu ko động vào tôi đã quên mất mật khẩu của nó :< Tôi chỉ nhớ nó có 5 ký tự, 3 số ở đầu và 2 chữ cái ở sau. Liệu có thể tìm lại được mật khẩu không vậy? :((
 
@@ -75,7 +83,7 @@ file: [crackit.7z](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-S
 
 ### V. There is a base
 
-Bài giải: [link](#write-up)
+Bài giải: [link](https://github.com/n3ddih/EHC_Training_2021/blob/main/week1/README.md)
 
 Find the secret message in this file. Do it using only one line of commands.
 
@@ -83,13 +91,13 @@ file: [there_is_a_base](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-B
 
 ### VI. Setup a web server
 
-[Bài giải](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/blob/main/files/material/Apache_Installing.md)
+Bài giải: [link](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/edit/main/files/material/Apache_Installing.md)
 
-Cài đặt web server apache2. Tạo một file html trong thư mục gốc của webserver (/var/www/html) có nội dung bất kỳ (càng màu mè càng tốt, có thể tham khảo các mẫu thiết kế website trên mạng). Sử dụng lệnh curl kiểm tra truy cập vào file html vừa tạo.
+Tự tạo cho mình một website html sử dụng Apache web service đơn giản. Host ở local và port 80 (càng đẹp càng tốt). Sau đó dùng `curl` để test website vừa tạo.
 
 ### VII. Configure virtual host for webserver
 
-[Bài giải](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/blob/main/files/material/Virtual_Host_Conf.md)
+Bài giải: [link](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/blob/main/files/material/Virtual_Host_Conf.md)
 
 Trong Apache, tạo 2 **Virtual Host**. Mỗi cái sẽ có 1 file index.html với nội dung tùy thích (càng đẹp càng tốt). Sau đó sử dụng file `/etc/hosts` để thêm 2 domain **web1.com** và **web2.com**.
 
@@ -114,7 +122,7 @@ unreadable
 
 ### IX. Unreadble Strings
 
-Bài giải: [link](#write-up)
+Bài giải: [link](https://github.com/n3ddih/EHC_Training_2021/blob/main/week1/README.md)
 
 This file seems unreadable, can you find the message?
 
