@@ -18,7 +18,9 @@ Explaining commands: [Explain Shell](https://explainshell.com/)
 
 ## Write ups
 
+- Task 1: [link](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/blob/main/files/source/info.sh)
 - Task 3, 4, 5, 9: [link](https://github.com/n3ddih/EHC_Training_2021/blob/main/week1/README.md)
+- Task 8: [binary search](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/blob/main/files/source/binary-search.py), [linear search](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/blob/main/files/source/linear-search.py)
 
 ## Tasks
 
