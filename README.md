@@ -6,7 +6,7 @@ Week 1, Summer 2021.
 
 - [Learning Materials](#learning-material)
 
-- [Write Ups](#write-up)
+- [Write Ups](#write-ups)
 
 - [Bonus Tasks](#tasks)
 
@@ -16,7 +16,7 @@ Slide: [Training-EHC-GEN-4-week-1.pptx](https://github.com/FPTU-Ethical-Hackers-
 
 Explaining commands: [Explain Shell](https://explainshell.com/)
 
-## Write up
+## Write ups
 
 - Task 3, 4, 5, 9: [link](https://github.com/n3ddih/EHC_Training_2021/blob/main/week1/README.md)
 
@@ -59,7 +59,7 @@ Tất cả các các điều trên được lưu vào file `.log` tự định s
 
 ### III. File Finder
 
-Bài giải: [link](#write-up)
+Bài giải: [link](https://github.com/n3ddih/EHC_Training_2021/blob/main/week1/README.md)
 
 Đứa em tôi nó vừa nhắn giúp tìm lại file mật khẩu cho mà thằng kia nó mà nó làm khốn nạn quá ai cao tay vào giúp tôi với :((
 
@@ -69,7 +69,7 @@ file: [file_finder.zip](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-B
 
 ### IV. Crack the 7z
 
-Bài giải: [link](#write-up)
+Bài giải: [link](https://github.com/n3ddih/EHC_Training_2021/blob/main/week1/README.md)
 
 Tài liệu của tôi được nén lại bằng 7z và đặt mật khẩu. Nhưng lâu ko động vào tôi đã quên mất mật khẩu của nó :< Tôi chỉ nhớ nó có 5 ký tự, 3 số ở đầu và 2 chữ cái ở sau. Liệu có thể tìm lại được mật khẩu không vậy? :((
 
@@ -77,7 +77,7 @@ file: [crackit.7z](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-S
 
 ### V. There is a base
 
-Bài giải: [link](#write-up)
+Bài giải: [link](https://github.com/n3ddih/EHC_Training_2021/blob/main/week1/README.md)
 
 Find the secret message in this file. Do it using only one line of commands.
 
@@ -116,7 +116,7 @@ unreadable
 
 ### IX. Unreadble Strings
 
-Bài giải: [link](#write-up)
+Bài giải: [link](https://github.com/n3ddih/EHC_Training_2021/blob/main/week1/README.md)
 
 This file seems unreadable, can you find the message?
 
