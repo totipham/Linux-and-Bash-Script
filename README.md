@@ -12,11 +12,11 @@ Week 1, Summer 2021.
 
 ## Learning Material
 
-Slide: [Training-EHC-GEN-4-week-1.pptx](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/raw/main/files/material/Training-EHC-GEN-4-week-1.pptx)
+- Slide: [Training-EHC-GEN-4-week-1.pptx](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/raw/main/files/material/Training-EHC-GEN-4-week-1.pptx)
 
-Linux and Bash Script in the nutshell: [link](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/blob/main/files/material/Linux_Bash_Ref.md) *(author: Antoine)*
+- Linux and Bash Script in the nutshell: [link](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/blob/main/files/material/Linux_Bash_Ref.md) *(author: Antoine)*
 
-Explaining commands: [Explain Shell](https://explainshell.com/)
+- Explaining commands: [Explain Shell](https://explainshell.com/)
 
 ## Write ups
 
