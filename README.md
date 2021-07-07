@@ -24,7 +24,7 @@ Explaining commands: [Explain Shell](https://explainshell.com/)
 
 ### I. System info Program
 
-Bài giải: [not yet]()
+[Bài giải](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/blob/main/files/source/info.sh) của [Antoine Nguyễn](https://github.com/antoinenguyen-09).
 
 Viết 1 shell script tên **info.sh** hiển thị các thông tin về hệ thống, bao gồm:
 
