@@ -99,7 +99,7 @@ Trong Apache, tạo 2 **Virtual Host**. Mỗi cái sẽ có 1 file index.html v�
 
 [Source phần tìm kiếm nhị phân](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/blob/main/files/source/binary-search.py).
 
-[Source phần tìm kiếm tuyến tính](nothing).
+[Source phần tìm kiếm tuyến tính](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/blob/main/files/source/linear-search.py).
 
 Viết chương trình cài đặt lại thuật toán tìm kiếm nhị phân và tìm kiếm tuyến tính trên python (yêu cầu không được sử dụng thư viện):
 
