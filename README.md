@@ -24,7 +24,7 @@ Explaining commands: [Explain Shell](https://explainshell.com/)
 
 ### I. System info Program
 
-[Bài giải](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/blob/main/files/source/info.sh) của [Antoine Nguyễn](https://github.com/antoinenguyen-09).
+[Bài giải](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/blob/main/files/source/info.sh).
 
 Viết 1 shell script tên **info.sh** hiển thị các thông tin về hệ thống, bao gồm:
 
@@ -97,7 +97,8 @@ Trong Apache, tạo 2 **Virtual Host**. Mỗi cái sẽ có 1 file index.html v�
 
 ### VIII. Finding Algorithm (Programing)
 
-Bài giải: [not yet]()
+[Source phần tìm kiếm nhị phân](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script/blob/main/files/source/binary-search.py).
+[Source phần tìm kiếm tuyến tính](nothing).
 
 Viết chương trình cài đặt lại thuật toán tìm kiếm nhị phân và tìm kiếm tuyến tính trên python (yêu cầu không được sử dụng thư viện):
 
