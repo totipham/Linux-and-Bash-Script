@@ -255,3 +255,5 @@ trong thư mục đó:
 \+ Kết quả:
 
 ![image](https://user-images.githubusercontent.com/61876488/116437732-ee72af00-a877-11eb-8e4a-bba052a183eb.png)
+
+[Go back](https://github.com/FPTU-Ethical-Hackers-Club/Linux-and-Bash-Script#readme)
