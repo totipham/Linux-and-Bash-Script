@@ -1,7 +1,10 @@
-- Tạo directory chứa nội dung trên virtual hosts trong `/var/www`, e.g, `mkdir -p web1`. Sau đó đẩy nội dung (file html) vào.
+# Confugure Virtual Host for Webserver
+
+- Tạo 1 directory trong `/var/www/`, e.g, `web1`. 
+- Tạo 1 file index.html ở trong directory đó.
 - Tạo một **virtual host file** (đuôi .conf) cho web1 trong directory `/etc/apache2/sites-available/`. Nội dung như sau (có thể copy mẫu từ file `000-default.conf` sang):
 
-```bash
+```xml
 <VirtualHost *:80>
     ServerAdmin admin@web1.com
     ServerName web1.com
