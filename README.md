@@ -53,7 +53,7 @@ Viết 1 shell script tên **info.sh** hiển thị các thông tin về hệ th
 
 ### II. Cron job
 
-Bài giải: [not yet]()
+Bài giải: [link]()
 
 Tạo cron job chạy định kỳ với thời gian chỉ định nhằm kiểm tra sự thay đổi của một folder.
 
